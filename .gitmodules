@@ -520,7 +520,7 @@
 	url = https://github.com/johnjcamilleri/language-gf
 [submodule "vendor/grammars/language-gfm"]
 	path = vendor/grammars/language-gfm
-	url = https://github.com/atom/language-gfm
+	url = https://github.com/burodepeper/language-markdown
 [submodule "vendor/grammars/language-gn"]
 	path = vendor/grammars/language-gn
 	url = https://github.com/devoncarew/language-gn
